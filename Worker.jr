@@ -1,0 +1,28 @@
+import edu.ucdavis.jr.JR;
+import java.util.*; 
+// -----------------------------------------------------------------
+// Worker
+// -----------------------------------------------------------------
+public class Worker {
+
+   // Contructor
+   public Worker(){
+	System.out.println("Hello World, Iam worker");
+   }
+
+
+   // Main : to lauch the program  
+   public static void main(String [] args) {
+	Worker w = new Worker();
+   }
+}
+/*
+$Header: /home/cvs/sem0708a/dapps/ApplicationTest/Worker.jr,v 1.1 2007/10/14 14:03:27 sudanx05 Exp $
+$Log: Worker.jr,v $
+Revision 1.1  2007/10/14 14:03:27  sudanx05
+Création
+
+
+
+*/
+
